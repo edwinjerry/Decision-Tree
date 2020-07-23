@@ -1,2 +1,2 @@
 # Decision-Tree
-Explore different options with Decision Tree
+Decision Tree with Cost complexity pruning
